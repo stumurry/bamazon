@@ -1,0 +1,2 @@
+# bamazon
+Mysql Sequelize CLI
