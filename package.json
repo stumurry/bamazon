@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Mysql Sequelize CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "sequelize db:migrate && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stumurry/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stumurry/bamazon/issues"
+  },
+  "homepage": "https://github.com/stumurry/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0"
+  }
+}
